@@ -2,6 +2,9 @@
 
 Milestone: Circle of Fifths Prototype
 
+<img width="1252" height="650" alt="image" src="https://github.com/user-attachments/assets/1cb8f098-8940-4486-bc9b-07a9a65c5f17" />
+
+
 🧭 Overview
 
 This marks the first successful render of a live interactive Circle of Fifths interface in the Choshiwa OS Sandbox.
